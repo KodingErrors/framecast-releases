@@ -14,4 +14,4 @@ All versions are on the [Releases](https://github.com/KodingErrors/framecast-rel
 
 For 64-bit phones with Android 8 or later.
 
-The app does nothing on its own beyond your phone: each install creates its own access secret, and only devices you share a link with (over Tailscale) can reach it.
+Each install creates its own access secret, so only the phone itself and the people you send a share link to (over Tailscale) can use it.
